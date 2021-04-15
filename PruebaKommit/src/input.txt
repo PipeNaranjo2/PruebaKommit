@@ -1,0 +1,5 @@
+M,P
+P,A
+A,C
+P,T
+T,C
